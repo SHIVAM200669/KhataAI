@@ -1,4 +1,4 @@
-# KiranaPilot
+# KHATA AI
 
 AI Financial Intelligence for Small Merchants.
 
